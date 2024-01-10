@@ -1,5 +1,5 @@
 import './App.css'
-import Dashboard from './Components/Dashboard/Dashboard';
+import Dashboard from './Components/Dashboard';
 
 function App() {
   return (
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
